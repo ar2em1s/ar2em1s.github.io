@@ -1,0 +1,4 @@
+Sitemap: https://ar2em1s.github.io/dcs/sitemap.xml
+
+User-agent: *
+Disallow:
